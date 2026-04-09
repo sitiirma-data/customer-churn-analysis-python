@@ -5,6 +5,8 @@ Analyze customer churn behavior to identify patterns and provide actionable busi
 
 ---
 ## 📌 Churn vs Non-Churn Distribution
+![Churn Chart](images/Customer churn vs not churn.png)
+
 **Insight:**
 73.46% of customers are retained, while 26.54% have churned. Although retention is still high, the churn rate is significant and needs attention.
 
