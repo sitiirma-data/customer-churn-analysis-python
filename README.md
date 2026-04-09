@@ -4,6 +4,26 @@
 Analyze customer churn behavior to identify patterns and provide actionable business insights for improving customer retention.
 
 ---
+## 🔧 Project Workflow
+1. Data Cleaning (handling missing values & duplicates)
+2. Data Exploration (EDA)
+3. Data Visualization
+4. Insight Generation
+5. Business Recommendations
+
+---
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook (Google Colab)
+
+---
+## 📂 Dataset
+- Source: Telco Customer Churn Dataset
+- Contains customer demographics, services, tenure, and billing information
+
+---
 ## 🚀 Key Findings
 - High churn occurs early in customer lifecycle
 - Revenue strongly correlates with tenure
@@ -52,5 +72,10 @@ Customer retention is strongly influenced by early-stage experience.
 - Provide loyalty programs for long-term customers
 - Target high-risk customers early in their lifecycle
 - Analyze high-churn cities for service improvements
+
+---
+## 🚀 Future Improvements
+- Build churn prediction model (Machine Learning)
+- Deploy dashboard using Streamlit or Power BI
 
 ---
