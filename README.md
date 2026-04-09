@@ -4,6 +4,12 @@
 Analyze customer churn behavior to identify patterns and provide actionable business insights for improving customer retention.
 
 ---
+## 🚀 Key Findings
+- High churn occurs early in customer lifecycle
+- Revenue strongly correlates with tenure
+- Regional differences impact churn behavior
+
+---
 ## 📌 Churn vs Non-Churn Distribution
 ![Churn Chart](images/churn.png)
 **Insight:**
